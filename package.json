@@ -1,0 +1,27 @@
+{
+  "name": "sabnzbd-no-subfolder-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsintill/sabnzb-no-subfolder-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsintill/sabnzb-no-subfolder-script/issues"
+  },
+  "homepage": "https://github.com/xsintill/sabnzb-no-subfolder-script#readme",
+  "dependencies": {
+    "args": "^2.6.1",
+    "fs-extra": "^3.0.0",
+    "typescript": "^2.3.2"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^2.1.0"
+  }
+}
